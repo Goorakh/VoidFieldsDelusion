@@ -1,0 +1,13 @@
+﻿{
+	"name": "VoidFieldsDelusion",
+	"authorName": "Gorakh",
+	"displayName": "Void Fields Delusion",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/VoidFieldsDelusion",
+	"description": "Triggers Artifact of Delusion chest closing after fully clearing Void Fields. Server-side and vanilla compatible.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2113",
+		"RiskofThunder-HookGenPatcher-1.2.3",
+		"RiskofThunder-R2API_Core-5.0.12"
+	]
+}
